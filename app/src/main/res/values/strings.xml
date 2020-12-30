@@ -10,4 +10,14 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+
+    <string name="date_name">Name</string>
+    <string name="description">Beschreibung</string>
+    <string name="location">Ort</string>
+    <string name="frequence">Frequenz</string>
+    <string name="date_from">Von:</string>
+    <string name="date_to">Bis:</string>
+    <string name="category">Kategorie</string>
+    <string name="commit">Zusage</string>
+    <string name="save">Speichern</string>
 </resources>

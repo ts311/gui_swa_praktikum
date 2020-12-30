@@ -1,14 +1,14 @@
-package com.example.gui_swa_praktikum.ui.gallery;
+package com.example.gui_swa_praktikum.ui.form;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class GalleryViewModel extends ViewModel {
+public class FormViewModel extends ViewModel {
 
     private MutableLiveData<String> mText;
 
-    public GalleryViewModel() {
+    public FormViewModel() {
         mText = new MutableLiveData<>();
         mText.setValue("This is gallery fragment");
     }
